@@ -24,6 +24,12 @@ O projeto segue os princípios de Clean Code e está organizado da seguinte mane
 - **Estacionamento**: Classe responsável pela gestão dos veículos estacionados.
 - **Program**: Classe principal que contém o menu e as interações com o usuário.
 
+## Tecnologias Utilizadas
+
+- Linguagem: C#
+- Plataforma: .NET Core
+- IDE: Visual Studio
+
 ## Como Executar
 
 1. Clone o repositório:
