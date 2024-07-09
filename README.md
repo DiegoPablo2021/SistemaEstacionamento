@@ -5,8 +5,6 @@ Bem-vindo ao Projeto de Sistema de Estacionamento 24/7,
 Este é um projeto de sistema de estacionamento desenvolvido em C# utilizando a plataforma Visual Studio. O sistema permite a entrada, saída e listagem de veículos estacionados,
 calculando o valor a ser cobrado pelo tempo de estacionamento.
 
-Consulte **[Implantação](https://github.com/DiegoPablo2021/SistemaEstacionamento)** para saber como implantar o projeto.
-
 ## Funcionalidades
 
 - Entrada de veículo (Carro ou Moto)
